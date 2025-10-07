@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70717052-6f30-4445-b9fd-202dc92217b2" name="Changes" comment="update changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002_Python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759848320844</updated>
-      <workItem from="1759848321745" duration="2099000" />
+      <workItem from="1759848321745" duration="2168000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <option name="closed" value="true" />
@@ -114,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759850986299</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update changes">
+      <option name="closed" value="true" />
+      <created>1759851110685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759851110685</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +132,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="update changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab002_Python.coverage" NAME="Lab002_Python Coverage Results" MODIFIED="1759850600355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
+    <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab002_Python.coverage" NAME="Lab002_Python Coverage Results" MODIFIED="1759851092969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab001_Python_Hello.coverage" NAME="Lab001_Python_Hello Coverage Results" MODIFIED="1759848610407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
   </component>
 </project>
