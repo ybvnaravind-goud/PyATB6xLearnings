@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70717052-6f30-4445-b9fd-202dc92217b2" name="Changes" comment="update changes">
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Python_Basics/Lab002_Python.py" afterDir="false" />
+    <list default="true" id="70717052-6f30-4445-b9fd-202dc92217b2" name="Changes" comment="update changes - condition statemnt">
+      <change afterPath="$PROJECT_DIR$/src/ex_05_Conditions_Loops/If_Condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {}
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ybvnaravind-goud/PyATB6xLearnings.git",
-    "accountId": "e3633193-378d-4209-9f39-604ee3cd335e"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ybvnaravind-goud/PyATB6xLearnings.git&quot;,
+    &quot;accountId&quot;: &quot;e3633193-378d-4209-9f39-604ee3cd335e&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="33k5djSD4w8HtovoxDiPqhNaVWe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,11 +43,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.If_Condition.executor": "Run",
+    "Python.If_Nestedif.executor": "Run",
     "Python.Lab001_Python_Hello.executor": "Run",
     "Python.Lab002_Python.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "E:/Aravind/PythonLearning/PyATB6xLearning/src/ex_05_Conditions_Loops",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,10 +60,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Aravind\PythonLearning\PyATB6xLearning\src\ex_05_Conditions_Loops" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.26830.99" />
         <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
       </set>
     </attachedChunks>
@@ -71,7 +79,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759848320844</updated>
-      <workItem from="1759848321745" duration="2258000" />
+      <workItem from="1759848321745" duration="2376000" />
+      <workItem from="1759974587592" duration="1443000" />
+      <workItem from="1764305841003" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="update changes">
       <option name="closed" value="true" />
@@ -129,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759851193499</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update changes">
+      <option name="closed" value="true" />
+      <created>1759851263985</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759851263985</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update changes - condition statemnt">
+      <option name="closed" value="true" />
+      <created>1771415167383</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1771415167383</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +163,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="update changes" />
+    <MESSAGE value="update changes - condition statemnt" />
+    <option name="LAST_COMMIT_MESSAGE" value="update changes - condition statemnt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PyATB6xLearning$Lab002_Python.coverage" NAME="Lab002_Python Coverage Results" MODIFIED="1759851092969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/ex_01_Python_Basics" />
